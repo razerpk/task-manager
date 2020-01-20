@@ -1,0 +1,18 @@
+{
+  "resources": {
+    "fi": {
+      "translation": {
+        "task": "Taski",
+        "tasks": "Taskit",
+        "about": "Tietoja"
+      }
+    },
+    "en": {
+      "translation": {
+        "task": "Task",
+        "tasks": "Tasks",
+        "about": "About"
+      }
+    }
+  }
+}
