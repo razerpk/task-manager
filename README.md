@@ -1,8 +1,8 @@
 ## Task manager 
 
-###heroku frontend:
+### heroku frontend:
 http://my-task-manage-app.herokuapp.com/#/
-###heroku backend
+### heroku backend
 https://my-test-database.herokuapp.com/
 
 ```javascript
